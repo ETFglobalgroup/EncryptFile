@@ -32,7 +32,7 @@ Chunk size would affect execution performance
 ## 範例 Example
 
 ### 加密 Encrypt
-` encryptfile -e [InputFile] -o [OutputFile] -k [KeyFile]
+` encryptfile -e [InputFile] -o [OutputFile] -k [KeyFile]`
 
 ### 解密 Decrypt
-` encryptfile -d [InputFile] -o [OutputFile] -k [KeyFile]
+` encryptfile -d [InputFile] -o [OutputFile] -k [KeyFile]`
